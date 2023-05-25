@@ -1,0 +1,5 @@
+Syntax for the OKay language
+//TO PRINT
+PRINT(STATEMENT)
+
+
