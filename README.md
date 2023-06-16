@@ -147,7 +147,7 @@ Please adhere to this project's `code of conduct`.
  - [Bart](https://bard.google.com/)
  - Github Co-Pilot
  - [Writing An Interpreter In Go](https://interpreterbook.com/)
- - [CodePulse](https://youtube.com/playlist?list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD)
+ - [CodePulse](https://youtube.com/playlist?list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97y)
  - [BhaiLang](https://github.com/DulLabs/bhai-lang)
  - [Crafting Interpreter](https://craftinginterpreters.com/)
 
